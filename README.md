@@ -6,4 +6,4 @@ In the second part, the user can choose the value for the x and y axis so and ba
 In the third part, the user should enter values for the category they wish so that based on the value they've entered, the approximate price of the car will be displayed(If no value is chosen, then it will automatically take the least value for calculation).
 
 # Cloning
-The program can be cloned from the link provided in the Link section.
+The program can be cloned from the link provided in the Links section.
