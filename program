@@ -1,0 +1,82 @@
+from ._anvil_designer import Form1Template
+from anvil import *
+import anvil.server
+import anvil.tables as tables
+import anvil.tables.query as q
+from anvil.tables import app_tables
+import plotly.graph_objects as go
+
+class Form1(Form1Template):
+  def __init__(self, **properties):
+    # Set Form properties and Data Bindings.
+    self.init_components(**properties)
+    
+    self.cvalue.items = [(r['cname'], r) for r in app_tables.category.search()]
+    self.xvalue.items = [(r['c1name'], r) for r in app_tables.category1.search()]
+    self.yvalue.items = [(r['cname'], r) for r in app_tables.category.search()]
+
+    # Any code you write here will run when the form opens.
+    
+  def get_index(self,a,b):    
+    index = 0
+    for row_product in app_tables.sample2.search():
+      if row_product[a] == b:
+        return index
+      index += 1
+    return 0
+  
+  def getvalue(self,x,a,b,y):
+   if (x is not None and a>=2 and b<=16):
+      value=app_tables.sample2.search()[self.get_index(y,x)]['Ex-Showroom_Price(Rs.)']
+      print(value)
+      return value
+   else:
+      value=app_tables.sample2.search()[self.get_index(y,a)]['Ex-Showroom_Price(Rs.)']
+      print(value)
+      return value
+
+  def button_1_click(self, **event_args):
+    """This method is called when the button is clicked"""
+    sample=(self.cvalue.selected_value['cname'])
+    max_value = app_tables.sample2.search(tables.order_by(sample, ascending=False))[0][sample]
+    min_value = app_tables.sample2.search(tables.order_by(sample, ascending=True))[0][sample]
+    maxindex=self.get_index(sample,max_value)
+    minindex=self.get_index(sample,min_value)
+    amake=app_tables.sample2.search()[maxindex]['Make']
+    amodel=app_tables.sample2.search()[maxindex]['Model']
+    avariant=app_tables.sample2.search()[maxindex]['Variant']
+    aminmake=app_tables.sample2.search()[minindex]['Make']
+    aminmodel=app_tables.sample2.search()[minindex]['Model']
+    aminvariant=app_tables.sample2.search()[minindex]['Variant']
+    self.valuemessage.text = 'The car with maximum '+sample+' is '+amodel+' made by '+amake+' of Variant '+avariant
+    self.valuemessage2.text = 'The car with minimum '+sample+' is '+aminmodel+' made by '+aminmake+' of Variant '+aminvariant
+    pass
+
+  def Submit_click(self, **event_args):
+    """This method is called when the button is clicked"""
+    X=(self.xvalue.selected_value['c1name'])
+    Y=(self.yvalue.selected_value['cname'])
+    self.plot_1.data=go.Scatter(x=[x[X] for x in app_tables.sample2.search()],y=[x[Y] for x in app_tables.sample2.search()],mode='lines+markers')
+    pass
+
+  def submit1_click(self, **event_args):
+    """This method is called when the button is clicked"""
+    
+    totalsum=0
+    totalsum=totalsum+self.getvalue(self.ccvalue.text,72,7993,'Displacement(cc)')
+    totalsum=totalsum+self.getvalue(self.cylindervalue.text,2,16,'Cylinders')
+    totalsum=totalsum+self.getvalue(self.vpcvalue.text,1,16,'Valves_Per_Cylinder')
+    totalsum=totalsum+self.getvalue(self.ftcvalue.text,15,105,'Fuel_Tank_Capacity(litres)')
+    totalsum=totalsum+self.getvalue(self.hvalue.text,1136,2670,'Height(mm)')
+    totalsum=totalsum+self.getvalue(self.lvalue.text,2752,6092,'Length(mm)')
+    totalsum=totalsum+self.getvalue(self.wvalue.text,1312,4649,'Width(mm)')
+    totalsum=totalsum+self.getvalue(self.doorvalue.text,2,5,'Doors')
+    totalsum=totalsum+self.getvalue(self.cmvalue.text,2,28,'City_Mileage(Km/litre)')
+    totalsum=totalsum+self.getvalue(self.gvalue.text,4,9,'Gears')
+    totalsum=totalsum+self.getvalue(self.scvalue.text,2,16,'Seating_Capacity')
+    totalsum=totalsum+self.getvalue(self.wbvalue.text,1840,3820,'Wheelbase(mm)')
+    totalsum=totalsum+self.getvalue(self.bsvalue.text,20,1701,'Boot_Space(litres)')
+    
+    self.messagevalue3.text = 'The expected price of the car is around Rs.'
+    self.messagevalue4.text = round(totalsum/13)
+    pass
