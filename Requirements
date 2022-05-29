@@ -1,6 +1,0 @@
-# install the following
-python 3.9.1
-pip
-anvil-uplink
-pandas
-xlrd
