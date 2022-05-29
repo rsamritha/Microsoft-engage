@@ -1,0 +1,501 @@
+Make,Model,Variant,Ex-Showroom_Price(Rs.),Displacement(cc),Cylinders,Valves_Per_Cylinder,Drivetrain,Emission_Norm,Engine_Location,Fuel_Tank_Capacity(litres),Height(mm),Length(mm),Width(mm),Doors,City_Mileage(km/litre),Gears,Front_Tyre_&_Rim,Rear_Tyre_&_Rim,Seating_Capacity,Wheelbase(mm),Boot_Space(litres)
+Tata,Nano Genx,Xt,292667,624,2,2,RWD (Rear Wheel Drive),BS IV,"Rear, Transverse",24,1652,3164,1750,5,23.6,4,135/70R12,155/65R12,4,2230,110
+Tata,Nano Genx,Xe,236447,624,2,2,RWD (Rear Wheel Drive),BS IV,"Rear, Transverse",24,1652,3164,1750,5,23.6,4,135/70R12,155/65R12,4,2230,110
+Tata,Nano Genx,Emax Xm,296661,624,2,2,RWD (Rear Wheel Drive),BS IV,"Rear, Transverse",15,1652,3164,1750,4,23.6,4,135/70R12,155/65R12,4,2230,110
+Tata,Nano Genx,Xta,334768,624,2,2,RWD (Rear Wheel Drive),BS IV,"Rear, Transverse",24,1652,3164,1750,5,23.6,5,135/70R12,155/65R12,4,2230,94
+Tata,Nano Genx,Xm,272223,624,2,2,RWD (Rear Wheel Drive),BS IV,"Rear, Transverse",24,1652,3164,1750,5,23.6,4,135/70R12,155/65R12,4,2230,110
+Tata,Nano Genx,Xma,314815,624,2,2,RWD (Rear Wheel Drive),BS IV,"Rear, Transverse",24,1652,3164,1750,5,23.6,5,135/70R12,155/65R12,4,2230,94
+Datsun,Redi-Go,D,279650,799,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",28,1541,3429,1560,5,21.38,5,80/155R13,80/155R13,5,2348,222
+Datsun,Redi-Go,T,351832,799,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",28,1541,3429,1560,5,21.38,5,80/155R13,80/155R13,5,2348,222
+Datsun,Redi-Go,A,333419,799,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",28,1541,3429,1560,5,21.38,5,80/155R13,80/155R13,5,2348,222
+Datsun,Redi-Go,S,362000,799,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",28,1541,3429,1560,5,21.38,5,80/155R13,80/155R13,5,2348,222
+Datsun,Redi-Go,1.0 S,390000,999,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",28,1541,3429,1560,5,21.38,5,80/155R13,80/155R13,5,2348,222
+Datsun,Redi-Go,1.0 S Amt,437065,999,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",28,1541,3429,1560,5,21.38,5,155/80R13,155/80R13,5,2348,222
+Renault,Kwid,Rxe 0.8,353290,799,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",28,1490,3731,1579,5,25.17,6,165/70 R14,165/70 R14,5,2422,300
+Renault,Kwid,Std 0.8,283290,799,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",28,1490,3731,1579,5,25.17,5,165/70 R14,165/70 R14,5,2442,300
+Renault,Kwid,Rxl 0.8,383290,799,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",28,1490,3731,1579,5,25.17,5,165/70 R14,165/70 R14,5,2422,300
+Renault,Kwid,Rxt 0.8,413290,799,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",28,1490,3731,1580,5,25.17,5,165/70 R14,165/70 R14,5,2422,300
+Renault,Kwid,Rxt 1.0,433290,999,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",28,1490,3731,1579,5,25.17,5,165/70 R14,165/70 R14,5,2422,300
+Renault,Kwid,Climber 1.0 Mt,454490,999,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",28,1490,3731,1579,5,25.17,5,165/70 R14,165/70 R14,5,2422,300
+Renault,Kwid,Rxt Amt 1.0,463290,999,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",28,1490,3731,1579,5,25.17,5,165/70 R14,165/70 R14,5,2422,300
+Renault,Kwid,Climber Amt 1.0,484490,999,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",28,1490,3731,1579,5,25.17,5,165/70 R14,165/70 R14,5,2422,300
+Renault,Kwid,Rxt (O) 1.0,440990,999,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",28,1490,3731,1579,5,25.17,5,165/70 R14,165/70 R14,5,2422,300
+Renault,Kwid,Rxt (O) Amt 1.0,470990,999,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",28,1490,3731,1579,5,25.17,5,165/70 R14,165/70 R14,5,2422,300
+Renault,Kwid,Climber (O) Mt 1.0,462190,999,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",28,1490,3731,1579,5,25.17,5,165/70 R14,165/70 R14,5,2422,300
+Renault,Kwid,Climber (O) Amt 1.0,492190,999,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",28,1490,3731,1579,5,25.17,5,165/70 R14,165/70 R14,5,2422,300
+Maruti Suzuki,Eeco,5 Str,352136,1196,4,4,RWD (Rear Wheel Drive),BS 6,"Front, Longitudinal",40,1800,3675,1475,5,12,5,155 R13 LT,155 R13 LT,5,2350,400
+Maruti Suzuki,Eeco,7 Str,380573,1196,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",40,1800,3675,1475,5,12,5,155 R13 LT,155 R13 LT,7,2350,250
+Maruti Suzuki,Eeco,5 Str With Ac+Htr,392967,1196,4,4,RWD (Rear Wheel Drive),BS 6,"Front, Longitudinal",40,1800,3675,1475,5,11,5,155 R13 LT,155 R13 LT,5,2350,400
+Maruti Suzuki,Eeco,5 Str With Ac+Htr Cng,466057,1196,4,4,RWD (Rear Wheel Drive),BS 6,"Front, Longitudinal",40,1800,3675,1475,5,11,5,155 R13 LT,155 R13 LT,5,2350,400
+Maruti Suzuki,Eeco,5 Str With Htr Cng,425255,1196,4,4,RWD (Rear Wheel Drive),BS 6,"Front, Longitudinal",40,1800,3675,1475,5,11,5,155 R13 LT,155 R13 LT,5,2350,400
+Maruti Suzuki,Alto K10,Lxi,377588,998,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1475,3545,1490,5,14,5,155/65R13,155/65R13,5,2360,177
+Maruti Suzuki,Alto K10,Vxi,394036,998,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1475,3545,1490,5,14,5,155/65R13,155/65R13,5,2360,177
+Maruti Suzuki,Alto K10,Lx,360843,998,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1475,3545,1490,5,19,5,155/65R13,155/65R13,5,2360,177
+Maruti Suzuki,Alto K10,Vxi (O),407238,998,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1460,3620,1475,5,14,5,155/65R13,155/65R13,5,2360,177
+Maruti Suzuki,Alto K10,Lxi Cng (O),439777,998,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1475,3545,1490,5,14,5,155/65R13,155/65R13,5,2360,177
+Maruti Suzuki,Alto K10,Vxi Amt (O),438559,998,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1475,3545,1490,5,14,5,155/65R13,155/65R13,5,2360,177
+Datsun,Go,D,374990,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1507,3788,1636,5,14,5,155/70R13,155/70R13,5,2450,265
+Datsun,Go,T,468229,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1507,3788,1636,5,20.6,5,155/70R13,155/70R13,5,2450,265
+Datsun,Go,T (O),502492,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1507,3788,1636,5,20.6,5,155/70R13,155/70R13,5,2450,265
+Datsun,Go,A (O),499990,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1507,3788,1636,5,20.6,5,155/70R13,155/70R13,5,2450,265
+Datsun,Go,A,469990,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1507,3788,1636,5,20.6,5,155/70R13,155/70R13,5,2450,265
+Datsun,Go,T Vdc,528464,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1507,3788,1636,5,20.6,5,155/70R13,155/70R13,5,2450,265
+Datsun,Go,T (O) Vdc,553015,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1507,3788,1636,5,20.6,5,155/70R13,155/70R13,5,2450,265
+Datsun,Go,T Cvt,594464,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1507,3788,1636,5,20.6,5,155/70R13,155/70R13,5,2450,265
+Datsun,Go,T (O) Cvt,618015,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1507,3788,1636,5,20.6,5,155/70R13,155/70R13,5,2450,265
+Maruti Suzuki,Celerio Tour,H2,422444,998,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1560,3600,1600,5,23,5,155/80R13,155/80R13,5,2425,235
+Maruti Suzuki,Celerio Tour,H2 Cng,480670,998,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",60,1560,3695,1600,5,20,5,165/70R14,165/70R14,5,2425,235
+Hyundai,Santro,Era Mt,429990,1086,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1560,3610,1645,4,20,5,155/80 R13,155/80 R13,5,2400,242
+Hyundai,Santro,Magna Mt,503990,1086,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1560,3610,1645,4,22,5,155/80 R13,155/80 R13,5,2400,242
+Hyundai,Santro,Magna Mt Cng,547990,1086,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1560,3610,1645,4,22,5,155/80 R13,155/80 R13,5,2400,242
+Hyundai,Santro,Magna Amt,530990,1086,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1560,3610,1645,4,22,5,155/80 R13,155/80 R13,5,2400,242
+Hyundai,Santro,Sportz Mt,512990,1086,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1560,3610,1645,4,22,5,165/70 R14,165/70 R14,5,2400,242
+Hyundai,Santro,Sportz Mt Cng,578990,1086,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",60,1560,3610,1645,4,22,5,165/70 R14,165/70 R14,5,2400,242
+Hyundai,Santro,Sportz Amt,570990,1086,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1560,3610,1645,4,22,5,165/70 R14,165/70 R14,5,2400,242
+Hyundai,Santro,Asta Mt,556490,1086,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1560,3610,1645,4,22,5,155/80 R13,155/80 R13,5,2400,242
+Tata,Tiago,Revotron Xe,460000,1199,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1535,3765,1677,5,22,5,155/80 R13,155/80 R13,5,2400,242
+Tata,Tiago,Revotron Xt,520000,1199,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1535,3746,1647,5,23.84,5,175/65 R14,175/65 R14,5,2400,242
+Tata,Tiago,Revotron Xz,570000,1199,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1535,3746,1647,5,23.84,5,175/65 R14,175/65 R14,5,2400,242
+Tata,Tiago,Revotron Xz Plus,599000,1199,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1535,3746,1647,5,23.84,5,175/65 R14,175/65 R14,5,2400,242
+Tata,Tiago,Revotron Xz Plus Dual Tone,610000,1199,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1535,3746,1647,5,23.84,5,175/65 R14,175/65 R14,5,2400,242
+Tata,Tiago,Revotron Xza,620000,1199,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1535,3746,1647,5,23.84,5,175 / 65 R14,175 / 65 R14,5,2400,240
+Tata,Tiago,Revotron Xza Plus,649000,1199,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1535,3746,1647,5,23.84,5,175/60 R15,175/60 R15,5,2400,240
+Tata,Tiago,Revotron Xza Plus Dual Tone,660000,1199,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1535,3746,1647,5,23.84,5,175/60 R15,175/60 R15,5,2400,240
+Maruti Suzuki,Celerio X,Vxi (O),481074,998,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1560,3600,1600,5,23,5,165/70R14,165/70R14,5,2425,235
+Maruti Suzuki,Celerio X,Vxi,475198,998,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1560,3600,1600,5,23,5,165/70R14,165/70R14,5,2425,235
+Maruti Suzuki,Celerio X,Vxi Amt,518198,998,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1560,3600,1600,5,23,5,165/70R14,165/70R14,5,2425,235
+Maruti Suzuki,Celerio X,Vxi Amt (O),524074,998,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1560,3600,1600,5,23,5,165/70R14,165/70R14,5,2425,235
+Maruti Suzuki,Celerio X,Zxi,499734,998,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1560,3600,1600,5,23,5,165/70R14,165/70R14,5,2425,235
+Maruti Suzuki,Celerio X,Zxi (O),540350,998,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1560,3600,1600,5,23,5,165/70R14,165/70R14,5,2425,235
+Maruti Suzuki,Celerio X,Zxi Amt,542735,998,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1560,3600,1600,5,23,5,165/70R14,165/70R14,5,2425,235
+Maruti Suzuki,Celerio X,Zxi Amt (O),552350,998,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1560,3600,1600,5,23,5,165/70R14,165/70R14,5,2425,235
+Maruti Suzuki,Ignis,Alpha 1.2 Amt,713898,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",32,1595,3700,1690,5,20.89,5,175/65R 15,175/65R 15,5,2435,260
+Maruti Suzuki,Ignis,Alpha 1.2 Mt,666898,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",32,1595,3700,1690,5,20.89,5,175/65R 15,175/65R 15,5,2435,260
+Maruti Suzuki,Ignis,Delta 1.2 Amt,607841,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",32,1595,3700,1690,5,20.89,5,175/65R 15,175/65R 15,5,2435,260
+Maruti Suzuki,Ignis,Delta 1.2 Mt,560841,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",32,1595,3700,1690,5,20.89,5,175/65R 15,175/65R 15,5,2435,260
+Maruti Suzuki,Ignis,Sigma 1.2 Mt,483320,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",32,1595,3700,1690,5,20.89,5,175/65R 15,175/65R 15,5,2435,260
+Maruti Suzuki,Ignis,Zeta 1.2 Amt,630320,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",32,1595,3700,1690,5,15.1,5,175/65R 15,175/65R 15,5,2435,260
+Maruti Suzuki,Ignis,Zeta 1.2 Mt,583320,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",32,1595,3700,1690,5,20.89,5,175/65R 15,175/65R 15,5,2435,260
+Renault,Triber,Rxe,495000,999,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",40,1643,3990,1739,5,20.89,5,185/65 R14,185/65 R14,7,2636,625
+Renault,Triber,Rxl,559000,999,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",40,1643,3990,1739,5,21,5,185/65 R14,185/65 R14,7,2636,625
+Renault,Triber,Rxt,609000,999,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",40,1643,3990,1739,5,21,5,185/65 R14,185/65 R14,7,2636,625
+Renault,Triber,Rxz,663000,999,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",40,1643,3990,1739,5,21,5,185/65 R15,185/65 R15,7,2636,625
+Premier,Rio,Gx,506000,1173,4,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",46,1730,3970,1570,5,13,5,205/70R15,205/70R15,5,2420,454
+Premier,Rio,Ex,568623,1489,4,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",46,1730,3970,1570,5,12,5,205/70,205/70,5,2420,454
+Premier,Rio,Glx,670000,1173,4,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",46,1730,3970,1570,5,13,5,205/70R15,205/70R15,5,2420,454
+Premier,Rio,Dx,603000,1489,4,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",46,1730,3970,1570,5,12,5,205/70R15,205/70R15,5,2420,454
+Premier,Rio,Lx,739000,1489,4,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",46,1730,3970,1570,5,12,5,205/70R15,205/70R15,5,2420,454
+Premier,Rio,Crdi4,739000,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",46,1730,3970,1570,5,20,5,205/70R15,205/70R15,5,2420,454
+Toyota,Etios Liva,G,520300,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1510,3884,1695,5,15.1,5,175/65R14,175/65R14,5,2460,251
+Toyota,Etios Liva,V,581000,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1510,3884,1695,5,15.1,5,175/65R14,175/65R14,5,2460,251
+Toyota,Etios Liva,Gd,647800,1364,4,2,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1510,3884,1695,5,20.3,5,175/65R14,175/65R14,5,2460,251
+Toyota,Etios Liva,Vx,630000,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1510,3884,1695,5,15.1,5,185/60R15,185/60R15,5,2460,251
+Toyota,Etios Liva,Vxd,745000,1364,4,2,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1510,3884,1695,5,20.3,5,185/60R15,185/60R15,5,2460,251
+Toyota,Etios Liva,Vd,704000,1364,4,2,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1510,3884,1695,5,20.3,5,175/65R14,175/65R14,5,2460,251
+Toyota,Etios Liva,Dual Tone V,597700,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1510,3884,1695,5,15.1,5,175/65R14,175/65R14,5,2460,251
+Toyota,Etios Liva,Dual Tone Vd,720700,1364,4,2,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1510,3884,1695,5,20.3,5,175/65R14,175/65R14,5,2460,251
+Toyota,Etios Liva,Dual Tone Vx,641700,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1510,3884,1695,5,15.1,5,185/60R15,185/60R15,5,2460,251
+Toyota,Etios Liva,Dual Tone Vxd,756700,1364,4,2,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1510,3884,1695,5,20.3,5,185/60R15,185/60R15,5,2460,251
+Toyota,Etios Liva,Gx,558400,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1510,3884,1695,5,15.1,5,175/65R14,175/65R14,5,2460,251
+Toyota,Etios Liva,Gxd,686000,1364,4,2,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1510,3884,1695,5,20.3,5,175/65R14,175/65R14,5,2460,251
+Toyota,Etios Liva,Vx Dual Tone Limited Edition,662700,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1510,3884,1695,5,15.1,5,185/60R15,185/60R15,5,2460,251
+Toyota,Etios Liva,Vxd Dual Tone Limited Edition,777700,1364,4,2,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1510,3884,1695,5,20.3,5,185/60R15,185/60R15,5,2460,251
+Nissan,Micra Active,Xl,525021,1198,3,12,FWD (Front Wheel Drive),BS IV,"Front, Transverse",41,1530,3801,1665,5,20.3,5,155/80 R13,155/80 R13,5,2450,251
+Nissan,Micra Active,Xv,599950,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",41,1530,3801,1665,5,19.49,5,155/80R13,155/80R13,5,2450,251
+Nissan,Micra Active,Xl (O),563133,1198,3,12,FWD (Front Wheel Drive),BS IV,"Front, Transverse",41,1530,3801,1665,5,19.49,5,155/80 R13,155/80 R13,5,2450,251
+Tata,Bolt,Xt Diesel,787980,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",44,1562,3825,1695,5,22,5,175/65 R15,175/65 R15,5,2470,210
+Tata,Bolt,Xe Diesel,661111,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",44,1562,3825,1695,5,22,5,175/65 R14,175/65 R14,5,2470,210
+Tata,Bolt,Xm Diesel,693798,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",44,1562,3825,1695,5,22,5,175/65 R14,175/65 R14,5,2470,210
+Tata,Bolt,Xms Diesel,719661,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",44,1562,3825,1695,5,22,5,175/65 R14,175/65 R14,5,2470,210
+Tata,Bolt,Xt Petrol,674960,1193,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",44,1562,3825,1695,5,17,5,175/65 R15,175/65 R15,5,2470,210
+Tata,Bolt,Xe Petrol,529035,1193,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",44,1562,3825,1695,5,17,5,175/65 R14,175/65 R14,5,2470,210
+Tata,Bolt,Xm Petrol,590268,1193,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",44,1562,3825,1695,5,17,5,175 / 65 R14,175 / 65 R14,5,2470,210
+Tata,Bolt,Xms Petrol,614515,1193,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",44,1562,3825,1695,5,17,5,175 / 65 R14,175 / 65 R14,5,2470,210
+Hyundai,Xcent Prime,Cng T + (Cng +,556130,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",43,1520,3995,1660,4,17,5,165/65R14,165/65R14,5,2425,407
+Hyundai,Xcent Prime,T,536859,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",43,1520,3995,1660,4,23.5,5,165/65R14,165/65R14,5,2425,407
+Hyundai,Xcent Prime,T+,556130,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",43,1520,3995,1660,4,23.5,5,165/65R14,165/65R14,5,2425,407
+Hyundai,Xcent Prime,Cng T (Cng +,536859,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",43,1520,3995,1660,4,23.5,5,165/65R14,165/65R14,5,2425,407
+Hyundai,Xcent Prime,T+ Crdi,639616,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",43,1520,3995,1660,4,23.5,5,165/65R14,165/65R14,5,2425,407
+Hyundai,Xcent Prime,T Crdi,620297,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",43,1520,3995,1660,4,23.5,5,165/65R14,165/65R14,5,2425,407
+Maruti Suzuki,Dzire Tour,Ldi,653523,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",42,1555,3995,1695,4,14.6,5,165/80R14,165/80R14,5,2430,320
+Maruti Suzuki,Dzire Tour,Lxi,553423,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",42,1555,3995,1695,4,16.3,5,165/80R14,165/80R14,5,2430,316
+Maruti Suzuki,Dzire Tour,Lxi Cng,598940,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",42,1555,3995,1695,4,16.3,5,165/80R14,165/80R14,5,2430,316
+Hyundai,Elite I20,Era 1.2,559693,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1505,3995,1710,5,13.3,5,185/70R14,185/70R14,5,2525,285
+Hyundai,Elite I20,Era 1.4 Crdi,697803,1396,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1505,3985,1734,5,18.4,6,185/70R14,185/70R14,5,2570,285
+Hyundai,Elite I20,Magna Plus,634950,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1505,3985,1734,5,13.3,5,185/70R14,185/70R14,5,2570,285
+Hyundai,Elite I20,Magna Plus Crdi,770803,1396,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1505,3985,1734,5,18.4,6,185/70R14,185/70R14,5,2570,285
+Hyundai,Elite I20,Sportz Plus,721693,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1505,3985,1734,5,13.3,5,185/65R14,185/65R14,5,2570,285
+Hyundai,Elite I20,Sportz Plus Crdi Dual Tone,876103,1396,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1505,3985,1734,5,18.4,6,185/65R14,185/65R14,5,2570,285
+Hyundai,Elite I20,Asta (O) 1.2,808993,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1505,3995,1734,5,13.3,5,195/55R16,195/55R16,5,2570,285
+Hyundai,Elite I20,Asta (O) Crdi,934003,1396,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1505,3985,1734,5,18.4,6,195/55R16,195/55R16,5,2570,285
+Hyundai,Elite I20,Asta (O) Cvt,920993,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1505,3985,1734,5,13.3,5,195/55R16,195/55R16,5,2570,285
+Hyundai,Elite I20,Sportz Plus Dual Tone,751693,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1505,3985,1734,5,13.3,5,185/70R14,185/70R14,5,2570,285
+Hyundai,Elite I20,Sportz Plus Cvt,831693,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1505,3985,1734,5,13.3,5,185/65R14,185/65R14,5,2570,285
+Hyundai,Elite I20,Sportz Plus Crdi,846103,1396,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1505,3985,1734,5,18.4,6,185/70R14,185/70R14,5,2570,285
+Hyundai,Aura,E 1.2 Petrol,579900,1197,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1520,3995,1680,5,19.5,5,165/70 R14,165/70 R14,5,2450,378
+Hyundai,Aura,S 1.2 Petrol,655900,1197,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1520,3995,1680,5,19.5,5,165/70 R14,165/70 R14,5,2450,378
+Hyundai,Aura,S 1.2 Amt Petrol,705800,1197,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1520,3995,1680,5,19.5,5,175/60 R15,175/60 R15,5,2450,378
+Hyundai,Aura,Sx 1.2 Petrol,729900,1197,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1520,3995,1680,5,19.5,5,175/60 R15,175/60 R15,5,2450,378
+Hyundai,Aura,Sx Plus 1.2 Amt Petrol,804800,1197,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1520,3995,1680,5,19.5,5,175/60 R15,175/60 R15,5,2450,378
+Hyundai,Aura,Sx (O) 1.2 Petrol,785900,1197,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1520,3995,1680,5,19.5,5,175/60 R15,175/60 R15,5,2450,378
+Hyundai,Aura,S 1.2 Cng Petrol (Cng +,728900,1197,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1520,3995,1680,5,19.5,5,175/60 R15,175/60 R15,5,2450,378
+Hyundai,Aura,Sx Plus 1.0 Petrol,854900,998,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1520,3995,1680,5,19.5,5,175/60 R15,175/60 R15,5,2450,378
+Hyundai,Aura,S 1.2 Diesel,773800,1186,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1520,3995,1680,5,19.5,5,165/70 R14,165/70 R14,5,2450,378
+Hyundai,Aura,S 1.2 Amt Diesel,823700,1186,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1520,3995,1680,5,19.5,5,175/60 R15,175/60 R15,5,2450,378
+Hyundai,Aura,Sx Plus 1.2 Amt Diesel,922700,1186,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1520,3995,1680,5,19.5,5,175/60 R15,175/60 R15,5,2450,378
+Hyundai,Aura,Sx (O) 1.2 Diesel,903800,1186,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1520,3995,1680,5,19.5,5,175/60 R15,175/60 R15,5,2450,378
+Volkswagen,Polo,Trendline 1.0L (P),582000,999,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1469,3971,1682,5,14,5,175/70R14,175/70R14,5,2469,280
+Volkswagen,Polo,Comfortline 1.0 (P),676500,999,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1469,3971,1682,5,14,5,185/60R15,185/60R15,5,2469,280
+Volkswagen,Polo,Highline Plus 1.0 (P),776500,999,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1469,3971,1682,5,14,5,185/60R16,185/60R16,5,2469,280
+Volkswagen,Polo,Trendline 1.5L (D),734500,1498,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1469,3971,1682,5,19,5,175/70R14,175/70R14,5,2469,280
+Volkswagen,Polo,Comfortline 1.5 (D),851500,1498,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1469,3971,1682,5,19,5,185/60R15,185/60R15,5,2469,280
+Volkswagen,Polo,Highline Plus 1.5 (D),931500,1498,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1469,3971,1682,5,19,5,185/60R16,185/60R16,5,2469,280
+Volkswagen,Polo,Gt Tsi,976000,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1469,3971,1682,5,17,7,185/60R15,185/60R15,5,2469,280
+Volkswagen,Polo,Gt Tdi,988500,1498,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1469,3971,1682,5,19,5,185/60R15,185/60R15,5,2469,250
+Maruti Suzuki,Dzire,Lxi,582613,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",37,1515,3995,1735,4,16.3,5,165/80R14,165/80R14,5,2450,378
+Maruti Suzuki,Dzire,Vxi,673112,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",37,1515,3995,1735,4,16.3,5,165/80R14,165/80R14,5,2450,378
+Maruti Suzuki,Dzire,Ldi,666622,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",37,1515,3995,1735,4,28,5,165/80R14,165/80R14,5,2450,378
+Maruti Suzuki,Dzire,Zxi,732113,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",37,1515,3995,1735,4,16.3,5,185/65R15,185/65R15,5,2450,378
+Maruti Suzuki,Dzire,Vdi,757622,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",37,1515,3995,1735,4,28.4,5,165/80R14,165/80R14,5,2450,378
+Maruti Suzuki,Dzire,Vxi Amt,720112,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",37,1515,3995,1735,4,16.3,4,165/80R14,165/80R14,5,2450,378
+Maruti Suzuki,Dzire,Zdi Amt,863122,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",37,1515,3995,1735,4,28.4,5,185/65R15,185/65R15,5,2450,378
+Maruti Suzuki,Dzire,Zdi,816622,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",37,1515,3995,1735,4,28,5,185/65R15,185/65R15,5,2450,378
+Maruti Suzuki,Dzire,Zxi Plus,821613,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",37,1515,3995,1735,4,16.3,5,185/65R15,185/65R15,5,2450,378
+Maruti Suzuki,Dzire,Zxi At,779113,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",37,1515,3995,1735,4,16.3,5,185/65R15,185/65R15,5,2450,378
+Maruti Suzuki,Dzire,Zxi Plus Amt,868613,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",37,1515,3995,1735,4,16.3,5,185/65R15,185/65R15,5,2450,378
+Maruti Suzuki,Dzire,Zdi Plus,906122,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",37,1515,3995,1735,4,28,5,185/65R15,185/65R15,5,2450,378
+Maruti Suzuki,Dzire,Vdi Amt,804622,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",37,1515,3995,1735,4,28.4,5,165/80R14,165/80R14,5,2450,378
+Maruti Suzuki,Dzire,Zdi Plus Amt,952622,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",37,1515,3995,1735,4,28.4,5,185/65R15,185/65R15,5,2450,378
+Ford,Freestyle,1.5L Tdci Ambiente,676400,1498,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",40,1570,3954,1737,5,26.7,5,185/60R15,185/60R15,5,2490,257
+Ford,Freestyle,1.5L Tdci Titanium,790900,1498,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",40,1570,3954,1737,5,26.7,5,175/65R14,175/65R14,5,2490,257
+Ford,Freestyle,1.5L Tdci Titanium Plus,836400,1498,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",40,1570,3954,1737,5,26.7,5,175/65R14,175/65R14,5,2490,257
+Ford,Freestyle,1.2L Ti-Vct Ambiente,591400,1194,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",42,1570,3954,1737,5,26.7,5,185/60R15,185/60R15,5,2490,257
+Ford,Freestyle,1.2L Ti-Vct Titanium,721400,1194,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",42,1570,3954,1737,5,26.7,5,185/60R15,185/60R15,5,2490,257
+Ford,Freestyle,1.2L Ti-Vct Titanium Plus,756400,1194,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",42,1570,3954,1737,5,26.7,5,185/60R15,185/60R15,5,2490,257
+Ford,Freestyle,1.2L Ti-Vct Trend Plus,681400,1194,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",42,1570,3954,1737,5,26.7,5,185/60R15,185/60R15,5,2490,257
+Ford,Freestyle,1.5L Tdci Trend Plus,745900,1498,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",42,1570,3954,1737,5,26.7,5,175/65R14,175/65R14,5,2490,257
+Volkswagen,Ameo,Trendline 1.5L Tdi,711500,1498,4,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",45,1483,3995,1682,4,15.3,5,185/60 R15,185/60 R15,5,2470,330
+Volkswagen,Ameo,Comfortline 1.5L Tdi,810500,1498,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1483,3995,1682,4,15.3,5,185/60 R15,185/60 R15,5,2470,330
+Volkswagen,Ameo,Highline Plus 1.5L Tdi Dsg,999900,1498,4,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",45,1483,3995,1682,4,15.3,7,195 / 55 R16,195 / 55 R16,5,2470,330
+Volkswagen,Ameo,Highline Plus 1.5L Tdi,925500,1498,4,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",45,1483,3995,1682,4,15.3,5,195 / 55 R16,195 / 55 R16,5,2470,330
+Volkswagen,Ameo,Trendline 1.0L,594000,999,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1483,3995,1682,4,15.3,5,175/70 R14,175/70 R14,5,2470,330
+Volkswagen,Ameo,Comfortline 1.0L,665000,999,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1483,3995,1682,4,15.3,5,185/60 R15,185/60 R15,5,2470,330
+Volkswagen,Ameo,Highline Plus 1.0L,799900,999,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1483,3995,1682,4,15.3,5,195/55 R16,195/55 R16,5,2470,330
+Volkswagen,Ameo,Gt Line Tdi Dsg,999900,1498,4,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",45,1483,3995,1682,4,15.3,7,195 / 55 R16,195 / 55 R16,5,2470,330
+Ford,Aspire,1.2 Ti-Vct Ambiente,598500,1194,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",42,1525,3995,1704,4,15.3,5,175/65R14,175/65R14,5,2490,257
+Ford,Aspire,1.2 Ti-Vct Trend Plus,697400,1194,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",42,1525,3995,1704,4,15.3,5,175/65R14,175/65R14,5,2490,257
+Ford,Aspire,1.2 Ti-Vct Trend,663400,1194,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",42,1525,3995,1704,4,15.3,5,175/65R14,175/65R14,5,2490,257
+Ford,Aspire,1.5 Tdci Ambiente,699400,1498,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",40,1525,3995,1704,4,15.3,5,175/65R14,175/65R14,5,2490,257
+Ford,Aspire,1.5 Tdci Trend,737400,1498,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",40,1525,3995,1704,4,15.3,5,175/65R14,175/65R14,5,2490,257
+Ford,Aspire,1.5 Tdci Trend Plus,777400,1498,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",40,1525,3995,1705,4,15.3,5,175/65R14,175/65R14,5,2490,257
+Ford,Aspire,1.5 Tdci Titanium,817400,1498,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",40,1525,3995,1704,4,15.3,5,195/55R15,195/55R15,5,2490,257
+Ford,Aspire,1.5 Tdci Titanium Plus,862400,1498,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",40,1525,3995,1704,4,15.3,5,195/55R15,195/55R15,5,2490,257
+Ford,Aspire,1.2 Ti-Vct Titanium Plus,782400,1194,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",42,1525,3995,1704,4,15.3,5,195/55R15,195/55R15,5,2490,257
+Ford,Aspire,1.2 Ti-Vct Titanium,737400,1194,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",42,1525,3995,1704,4,15.3,5,195/55R15,195/55R15,5,2490,257
+Ford,Aspire,1.2 Trend Plus Cng,758314,1194,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",42,1525,3995,1704,4,15.3,5,175/65R14,175/65R14,5,2490,257
+Ford,Aspire,1.2 Ti-Vct Blu,762400,1194,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",42,1525,3995,1704,4,15.3,5,195/55R15,195/55R15,5,2490,257
+Ford,Aspire,1.5 Tdci Blu,842400,1498,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",40,1525,3995,1704,4,15.3,5,195/55R15,195/55R15,5,2490,257
+Toyota,Platinum Etios,G,627100,1496,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1510,4369,1695,4,13,5,175/70R15,175/70R15,5,2550,592
+Toyota,Platinum Etios,V,718600,1496,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1510,4369,1695,4,13,5,185/60R15,185/60R15,5,2550,592
+Toyota,Platinum Etios,Gd,734700,1364,4,2,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1510,4369,1695,4,20.32,5,175/70R15,175/70R15,5,2550,592
+Toyota,Platinum Etios,Vd,828600,1364,4,2,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1510,4369,1695,4,20.3,5,185/60R15,185/60R15,5,2550,592
+Toyota,Platinum Etios,Vxd,888400,1364,4,2,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1510,4369,1695,4,20.32,5,185/60R15,185/60R15,5,2550,592
+Toyota,Platinum Etios,Vx,778400,1496,4,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",45,1510,4369,1695,4,13,5,185/60R15,185/60R15,5,2550,592
+Toyota,Platinum Etios,Gx,689600,1496,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1510,4369,1695,4,13.6,5,175/70R15,175/70R15,5,2550,592
+Toyota,Platinum Etios,Gxd,799600,1364,4,2,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1510,4369,1695,4,20.3,5,185/60R15,185/60R15,5,2550,592
+Toyota,Platinum Etios,Vxd Limited Edition,913400,1364,4,2,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1510,4369,1695,4,20.32,5,185/60R15,185/60R15,5,2550,592
+Toyota,Platinum Etios,Vx Limited Edition,803400,1496,4,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",45,1510,4369,1695,4,13.6,5,185/60R15,185/60R15,5,2550,592
+Toyota,Etios Cross,V,802000,1496,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1555,3895,1735,5,15,5,185/60R15,185/60R15,5,2460,251
+Toyota,Etios Cross,G,650000,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1555,3895,1735,5,16,5,185/60R15,185/60R15,5,2460,251
+Toyota,Etios Cross,Vd,797500,1364,4,2,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1555,3895,1735,5,18.1,5,185/60R15,185/60R15,5,2460,251
+Toyota,Etios Cross,Gd,766000,1364,4,2,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1555,3895,1735,5,18.1,5,185/60R15,185/60R15,5,2460,251
+Toyota,Etios Cross,1.2 X Edition,668500,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1555,3895,1735,5,16.78,5,185/60R15,185/60R15,5,2460,251
+Toyota,Etios Cross,1.4 X Edition,816000,1364,4,2,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1555,3895,1735,5,18.1,5,185/60R15,185/60R15,5,2460,251
+Mahindra,Verito Vibe,D2,657628,1461,4,2,FWD (Front Wheel Drive),BS IV,"Front, Transverse",50,1540,3991,1740,5,18,5,185/70R14,185/70R14,5,2630,330
+Mahindra,Verito Vibe,D4,685729,1461,4,2,FWD (Front Wheel Drive),BS IV,"Front, Transverse",50,1540,3991,1740,5,18,5,185/70R14,185/70R14,5,2630,330
+Mahindra,Verito Vibe,D6,750428,1461,4,2,FWD (Front Wheel Drive),BS IV,"Front, Transverse",50,1540,3991,1740,5,18,5,185/70R14,185/70R14,5,2630,330
+Fiat,Urban Cross,1.3 Multijet Active,677618,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1542,3989,1706,5,20,5,205/55 R16,205/55 R16,5,2510,280
+Fiat,Urban Cross,1.3 Multijet Dynamic,739074,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1542,3989,1706,5,20,5,205/55 R16,205/55 R16,5,2510,280
+Fiat,Urban Cross,1.4 T-Jet Emotion,977516,1368,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1542,3989,1706,5,17,5,205/55 R16,205/55 R16,5,2510,280
+Fiat,Urban Cross,1.3 Multijet Emotion,810211,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1542,3989,1706,5,20,5,205/55 R16,205/55 R16,5,2510,280
+Toyota,Glanza,G Hybrid,721900,1197,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1540,3995,1745,5,18.1,5,195 / 55 R16,195 / 55 R16,5,2520,339
+Toyota,Glanza,V,758200,1197,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1540,3995,1745,5,18.1,5,195 / 55 R16,195 / 55 R16,5,2520,339
+Toyota,Glanza,G Cvt,829900,1197,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1540,3995,1745,5,18.1,5,195 / 55 R16,195 / 55 R16,5,2520,339
+Toyota,Glanza,V Cvt,890200,1197,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1540,3995,1745,5,18.1,5,195 / 55 R16,195 / 55 R16,5,2520,339
+Toyota,Glanza,G Mt,697900,1197,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1540,3995,1745,5,18.1,5,195 / 55 R16,195 / 55 R16,5,2520,339
+Fiat,Avventura,Multijet Dynamic,796132,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1542,3989,1706,5,11.2,5,205/55R16,205/55R16,5,2510,280
+Fiat,Avventura,Multijet Active,711801,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1542,3989,1706,5,11.2,5,205/55R16,205/55R16,5,2510,280
+Fiat,Avventura,Multijet Emotion,876341,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1542,3989,1706,5,11.2,5,205/55R16,205/55R16,5,2510,280
+Honda,Jazz,V Petrol,745000,1199,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",40,1544,3955,1694,5,11.3,5,175/65R15,175/65R15,5,2530,354
+Honda,Jazz,Vx Cvt,909000,1199,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",40,1544,3955,1694,5,11.3,5,175/65R15,175/65R15,5,2530,354
+Honda,Jazz,Vx Petrol,789000,1199,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",40,1544,3955,1694,5,11.3,5,175/65R15,175/65R15,5,2530,354
+Honda,Jazz,V Cvt,865000,1199,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",40,1544,3955,1694,5,11.3,5,175/65R15,175/65R15,5,2530,354
+Honda,Jazz,S Diesel,816500,1498,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",40,1544,3955,1694,5,12,6,175/65,175/65,5,2530,354
+Honda,Jazz,V Diesel,896500,1498,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",40,1544,3955,1694,5,12,6,175/65R15,175/65R15,5,2530,354
+Honda,Jazz,Vx Diesel,940500,1498,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",40,1544,3955,1694,5,12,6,175/65R15,175/65R15,5,2530,354
+Honda,Jazz,Exclusive Edition Cvt,928000,1199,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",40,1544,3955,1694,5,13,5,175/65R15,175/65R15,5,2530,354
+Jeep,Compass Trailhawk,2.0 Trailhawk 4X4 At,2680000,1956,4,4,AWD (All Wheel Drive),BS 6,"Front, Longitudinal",60,1657,4398,1818,5,15,9,225 / 60 R17,225 / 60 R17,5,2636,438
+Jeep,Compass Trailhawk,2.0 Trailhawk (O) 4X4 At,2760000,1956,4,4,AWD (All Wheel Drive),BS 6,"Front, Longitudinal",60,1657,4398,1818,5,16,9,265 / 60 R17,265 / 60 R17,5,2636,438
+Isuzu,Mu-X,4X2,2734834,2999,4,4,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",76,1840,4825,1860,5,13.8,5,245/70R17,245/70R17,7,2845,438
+Isuzu,Mu-X,4X4,2931534,2999,4,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",76,1840,4825,1860,5,13.8,5,245/70R17,245/70R17,7,2845,438
+Mahindra,Alturas G4,2Wd At,2770150,2157,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",70,1845,4850,1960,5,11.3,7,255/60 R18,255/60 R18,7,2865,438
+Mahindra,Alturas G4,4Wd At,3070150,2157,4,4,4WD,BS IV,"Front, Transverse",70,1845,4850,1960,5,11.3,7,255/60 R18,255/60 R18,7,2865,438
+Volkswagen,Tiguan,Comfortline 2.0L Tdi Amt,2814500,1968,4,4,AWD (All Wheel Drive),BS IV,"Front, Transverse",71,1672,4486,1839,5,11.3,8,215/65R17,215/65R17,5,2677,615
+Volkswagen,Tiguan,Highline 2.0L Tdi Amt,3153500,1968,4,4,AWD (All Wheel Drive),BS IV,"Front, Transverse",71,1672,4486,1839,5,11.3,8,235/55R18,235/55R18,7,2677,615
+Honda,Cr-V,2Wd Petrol Cvt,2827001,1997,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",57,1679,4592,1855,5,11.3,7,235 / 65 R18,235 / 60 R18,5,2660,522
+Honda,Cr-V,2Wd Diesel At,3067001,1597,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",57,1679,4592,1855,5,11.3,9,235 / 65 R18,235 / 60 R18,7,2660,150
+Honda,Cr-V,Awd Diesel At,3277001,1597,4,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",57,1689,4592,1855,5,11.3,9,235 / 65 R18,235 / 60 R18,7,2660,150
+Skoda,Superb Sportline,Sportline 1.8L Tsi At,2899599,1798,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",66,1483,4861,1864,4,11.3,7,215/55 R17,215/55 R17,5,2841,625
+Skoda,Superb Sportline,Sportline 2.0L Tdi At,3149599,1968,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",66,1483,4861,1864,4,15.1,6,215/55 R17,215/55 R17,5,2841,625
+Audi,A3,35 Tdi Premium Plus,3021200,1968,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",50,1416,4456,1796,4,18,6,205/55R17,205/55R17,5,2637,425
+Audi,A3,35 Tdi Technology,3221200,1968,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",50,1416,4456,1796,4,18,6,205/55R17,205/55R17,5,2637,425
+Audi,A3,35 Tfsi Premium Plus,2920750,1395,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",50,1416,4456,1796,4,12.4,7,205/55R17,205/55R17,5,2637,425
+Audi,A3,35 Tfsi Technology,3120750,1395,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",50,1416,4456,1796,4,12.4,7,205/55R17,205/55R17,5,2637,425
+Mercedes Benz,Mercedes-Benz B-Class,B 180 Sport,2988311,1595,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",50,1557,4393,1786,5,9.5,7,205/55R16,205/55R16,5,2699,488
+Mercedes Benz,Mercedes-Benz B-Class,B 200 Cdi Sport,3089851,2143,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",50,1557,4393,1786,5,11.5,7,205/55R16,205/55R16,5,2699,488
+Mercedes Benz,Mercedes-Benz B-Class,B 180 Night Edition,3198662,1595,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",50,1557,4393,1786,5,9.5,7,205/55R16,205/55R16,5,2699,488
+Mercedes Benz,Mercedes-Benz B-Class,B 200 Cdi Night Edition,3303282,2143,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",50,1557,4393,1786,5,11.5,7,205/55R16,205/55R16,5,2699,488
+Mercedes Benz,Mercedes-Benz Cla-Class,200 Sport,3599000,1991,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",56,1432,4630,1777,4,11.04,7,225/45R17,225/45R17,5,2699,470
+Mercedes Benz,Mercedes-Benz Cla-Class,200 Cdi Style,3172000,2143,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",56,1432,4630,1777,4,13.9,7,225/45R17,225/45R17,5,2699,470
+Mercedes Benz,Mercedes-Benz Cla-Class,200 D Sport,3699000,2143,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",56,1432,4630,1777,4,13.9,7,225/45R17,225/45R17,5,2699,470
+Skoda,Kodiaq,Style 2.0 Tdi 4X4 At,3299599,1968,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",66,1483,4861,1864,4,15.1,6,215/55 R17,215/55 R17,5,2841,625
+Skoda,Kodiaq,Laurin And Klement,3678599,1968,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",66,1483,4861,1864,4,15.1,6,215/55 R17,215/55 R17,5,2841,625
+Skoda,Kodiaq,Corporate Edition,3299599,1968,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",66,1483,4861,1864,4,15.1,6,215/55 R17,215/55 R17,5,2841,625
+Dc,Avanti,Standard,3407407,2000,4,4,RWD (Rear Wheel Drive),BS IV,"Rear Mid, Transverse",60,1200,4565,2120,2,8,6,255/35R20,295/30R20,2,2700,432
+Audi,Q3,30 Tdi Premium Fwd,3677200,1968,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",64,1608,4388,1831,5,12,7,215/65R16,215/65R16,5,2603,460
+Audi,Q3,35 Tdi Quattro Premium Plus,3992200,1968,4,4,AWD (All Wheel Drive),BS IV,"Front, Transverse",64,1608,4388,1831,5,12,7,235/55R17,235/55R17,5,2603,460
+Audi,Q3,35 Tdi Quattro Technology,4361000,1968,4,4,AWD (All Wheel Drive),BS IV,"Front, Transverse",64,1608,4388,1831,5,12,7,235/55R17,235/55R17,5,2603,460
+Audi,Q3,30 Tfsi Premium,3496750,1395,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",64,1608,4388,1831,5,12,7,235/55 R17,235/55 R17,5,2603,460
+Mini,Cooper 5 Door,Cooper D,3600000,1496,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",64,1425,3982,1727,5,10.3,6,175/65 R15,175/65 R15,5,2835,278
+Mini,Convertible,Cooper S,3830000,1998,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",64,1415,3850,1727,2,10.3,6,195/55 R16,195/55 R16,4,2835,215
+Volvo,Xc40,D4 Momentum,3990000,1969,5,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",64,1652,4425,1863,5,10.3,8,235/55 R19,235/55 R19,5,2702,432
+Volvo,Xc40,D4 Inscription,4390000,1969,5,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",64,1652,4425,1863,5,10.3,8,235/55 R19,235/55 R19,5,2702,432
+Volvo,Xc40,T4 R-Design,3990000,1969,5,4,AWD (All Wheel Drive),BS 6,"Front, Longitudinal",64,1652,4425,1863,5,10.3,8,235/55 R18,235/55 R18,5,2702,432
+Mini,Clubman,Cooper S,4120000,1998,4,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",64,1441,4253,1801,4,12.3,8,195/55 R16,195/55 R16,5,2670,360
+Audi,A4,Premium Plus 35 Tfsi,4149000,1395,4,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",54,1427,4726,1842,4,12.3,7,225/50 R17 94Y,225/50 R17 94Y,5,2820,480
+Audi,A4,Technology 35 Tfsi,4507000,1395,4,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",54,1427,4726,1842,4,12.3,7,225/50 R17 94Y,225/50 R17 94Y,5,2820,480
+Mini,John Cooper Works,Hatch,4350000,1998,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",44,1414,3874,1727,3,12.3,8,"43.66 cm/17"" Light Alloy Wheels JCW Track Spoke, Black","43.66 cm/17"" Light Alloy Wheels JCW Track Spoke, Black",2,2495,455
+Jaguar,Xe,S Petrol,4498000,1997,4,4,RWD (Rear Wheel Drive),BS 6,"Front, Transverse",61,1416,4691,1850,4,12.3,8,205 / 55 R17,205 / 55 R17,5,2835,455
+Jaguar,Xe,S Diesel,4498000,1999,4,4,RWD (Rear Wheel Drive),BS 6,"Front, Transverse",56,1416,4691,1850,4,12.3,8,205 / 55 R17,205 / 55 R17,4,2835,455
+Jaguar,Xe,Se Diesel,4633000,1999,4,4,RWD (Rear Wheel Drive),BS 6,"Front, Transverse",56,1416,4691,1850,4,12.3,8,205 / 55 R17,205 / 55 R17,4,2835,455
+Jaguar,Xe,Se Petrol,4633000,1997,4,4,RWD (Rear Wheel Drive),BS 6,"Front, Transverse",61,1416,4691,1850,4,12.3,8,205 / 55 R17,205 / 55 R17,5,2835,455
+Jaguar,Xf,2.0 Prestige,5436329,1999,4,4,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",74,1460,4961,2091,4,5.7,8,235/55R17,235/55R17,5,2960,505
+Jaguar,Xf,2.0 Portfolio,6073446,1999,4,4,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",82,1457,5252,1899,4,5.7,8,235/55R18,235/55R18,5,3157,520
+Jaguar,Xf,2.0 Portfolio Diesel,6138811,1999,4,4,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",83,1457,5252,1899,4,5.7,8,235/55R18,235/55R18,5,3157,520
+Jaguar,Xf,2.0 Prestige Diesel,5506622,1999,4,4,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",66,1457,5067,2091,4,5.7,8,235/55R17,235/55R17,5,2960,505
+Jaguar,Xf,2.0 Pure Diesel,4977080,1999,4,4,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",66,1457,5067,2091,4,5.7,8,235/55R17,235/55R17,5,2960,505
+Audi,A3 Cabriolet,40 Tfsi,5038000,1395,4,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",50,1409,4421,1793,2,19.2,7,205 / 55 R16,205 / 55 R16,4,2595,320
+Audi,A6,Premium Plus 45 Tfsi,5442200,1984,4,16,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",73,1455,4933,1874,4,19.2,7,225/55 R18,225/55 R18,5,2912,560
+Audi,A6,Technology 45 Tfsi,5942200,1984,4,16,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",73,1455,4933,1874,4,19.2,7,225/55 R18,225/55 R18,5,2912,560
+Bmw,X3,Xdrive 20D Luxury Line,5930000,1995,4,4,4WD,BS IV,"Front, Longitudinal",67,1678,4657,1881,5,16,8,225/60R19,225/60R19,5,2810,550
+Bmw,X3,Xdrive 30I Luxury Line,5880000,1998,4,4,4WD,BS IV,"Front, Longitudinal",67,1678,4657,1881,5,16,8,245 / 50R19,245 / 50R19,5,2810,550
+Bmw,X3,Xdrive20D Xline,5600000,1995,4,4,4WD,BS IV,"Front, Longitudinal",67,1678,4657,1881,5,16,8,225/60R19,225/60R19,5,2810,550
+Land Rover,Discovery Sport,S,5706000,1999,4,4,4WD,BS 6,"Front, Transverse",70,1727,4600,2069,5,16,9,235/60 R18,235/60 R18,7,2741,550
+Land Rover,Discovery Sport,R-Dynamic Se,6089000,1999,4,4,4WD,BS 6,"Front, Transverse",70,1727,4600,2069,5,16,9,235/60 R18,235/60 R18,7,2741,550
+Land Rover Rover,Range Sport,2.0L Se Petrol,9448181,1997,8,4,4WD,BS IV,"Front, Longitudinal",105,1803,4879,2220,5,13.2,8,255/50,255/50,7,2923,530
+Land Rover Rover,Range Sport,3.0L Tdv6 S Diesel,10373732,2993,6,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",80,1803,4879,2220,5,13.2,8,255/50,255/50,5,2923,1761
+Bmw,X5,Xdrive30D Sport,7330000,2993,6,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",70,1745,4922,2218,5,16,8,255/50R19,255/50R19,5,2575,650
+Bmw,X5,Xdrive30D Xline,8290000,2993,6,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",70,1745,4922,2218,5,16,8,255/50R19,255/50R19,5,2575,650
+Bmw,X5,Xdrive40I M Sport,8290000,2998,6,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",70,1745,4922,2218,5,16,8,255/50R19,255/50R19,5,2575,650
+Ford,Mustang,Fastback V8,7462000,4951,8,4,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",70,1391,4784,2080,3,10,6,255/40 R19,275/40 R19,4,2720,650
+Jeep,Grand Cherokee,Limited,7882867,2987,6,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",94,1802,4828,1943,5,12.8,6,265 / 60 R18,265 / 60 R18,5,2915,1025
+Jeep,Grand Cherokee,Suit,8931819,2987,6,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",94,1802,4828,1943,5,12.8,6,265/50 R20,265/50R20,5,2915,1025
+Jeep,Grand Cherokee,Srt,11400000,6417,8,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",94,1749,4846,1954,5,12.8,8,295/45R20,295/45R20,5,2915,1025
+Jeep,Grand Cherokee,Suit Petrol,7515000,3604,6,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",94,1802,4828,1943,5,16,8,265/50 R20,265/50R20,5,2915,1025
+Mercedes Benz,Mercedes-Benz E-Class Cabriolet,E400,7711338,2996,6,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",80,1398,4703,1786,2,4.5,8,255/40 R18,255/35 R18,4,2760,540
+Bmw,M2 Competition,Coupe,8180000,2979,6,4,RWD (Rear Wheel Drive),BS 6,"Front, Longitudinal",52,1410,4461,1854,2,12.5,7,245/35ZR19,265/35ZR19,4,2693,460
+Porsche,718,Boxster,8995000,1988,4,4,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",54,1281,4379,1801,2,9,7,235/40 R18,235/40 R18,2,2475,650
+Porsche,718,Cayman,8595000,1988,4,4,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",54,1281,4379,1801,2,9,7,235/40 R18,235/40 R18,2,2475,650
+Mercedes Benz,Mercedes-Benz Gls,350 Cdi,8820000,2987,6,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",100,1850,5120,1934,4,6.5,7,275/55 R19,275/55 R19,5,3075,540
+Mercedes Benz,Mercedes-Benz Gls,63 Amg,19199181,5461,8,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",80,1850,5146,1982,4,9,7,295 / 40 R21,295 / 40 R21,7,3075,540
+Mercedes Benz,Mercedes-Benz Gls,400 4Matic,8776900,2996,8,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",80,1850,5146,1982,4,9,7,295 / 40 R21,295 / 40 R21,7,3075,540
+Mercedes Benz,Mercedes-Benz Gls,Grand Edition Petrol,8690000,2996,8,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",80,1850,5146,1982,4,9,7,295 / 40 R21,295 / 40 R21,7,3075,540
+Mercedes Benz,Mercedes-Benz Gls,Grand Edition Diesel,8690000,2987,6,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",100,1850,5120,1934,4,6.5,7,275/55 R19,275/55 R19,5,3075,540
+Toyota,Land Cruiser Prado,Vx L,9630000,2982,4,4,4WD,BS IV,"Front, Longitudinal",87,1880,4840,1885,5,7,5,265/60R18,265/60R18,7,2790,540
+Lexus,Rx 450H,450Hl Luxury,9900000,3456,6,4,AWD (All Wheel Drive),BS IV,"Front, Transverse",65,1700,5000,1895,4,18.8,5,235/60VR18,235/60VR18,5,2790,540
+Audi,Rs5,Coupe,11141200,2894,8,4,AWD (All Wheel Drive),BS IV,"Front, Transverse",58,1700,4649,4649,2,19,7,265/35R19,265/35R19,4,2790,465
+Bmw,7-Series,730Ld Design Pure Excellence,12290000,2993,6,4,AWD (All Wheel Drive),BS 6,"Front, Longitudinal",78,1479,5120,2169,4,13.5,8,(245/50 R18,(245/50 R18,4,3210,515
+Bmw,7-Series,730Ld Design Pure Excellence Signature,13200000,2993,6,4,AWD (All Wheel Drive),BS 6,"Front, Longitudinal",78,1479,5120,2169,4,13.5,8,245/45 R19,275/40 R19,4,3210,515
+Bmw,7-Series,730Ld M Sport,13510000,2993,6,4,AWD (All Wheel Drive),BS 6,"Front, Longitudinal",78,1479,5120,2169,4,13.5,8,245/45 R19,275/40 R19,4,3210,515
+Bmw,7-Series,740Li Design Pure Excellence Signature,13510000,2998,6,4,AWD (All Wheel Drive),BS 6,"Front, Longitudinal",78,1479,5120,2169,4,13.5,8,245/45 R19,275/40 R19,4,3210,515
+Bmw,7-Series,745Le Xdrive,16500000,2998,6,4,AWD (All Wheel Drive),BS 6,"Front, Longitudinal",46,1481,5219,2142,4,13.5,8,(245/50 R18,(245/50 R18,4,3110,500
+Bmw,7-Series,M760Li Xdrive,24250000,6592,12,4,AWD (All Wheel Drive),BS 6,"Front, Longitudinal",78,1481,5219,2142,4,13.5,8,245/40 R20,275/35 R20,4,3110,500
+Audi,Q8,55 Tfsi Quattro Tiptronic,13359500,2995,4,4,AWD (All Wheel Drive),BS 6,"Front, Longitudinal",85,1740,5052,1968,5,13.5,8,275/50 R20,275/50 R20,7,2994,605
+Mercedes Benz,Mercedes-Benz S-Class,S 350 D,13558438,2987,6,4,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",90,1494,5116,1899,4,13.5,7,235/55R17,235/55R17,5,3035,530
+Mercedes Benz,Mercedes-Benz S-Class,S 450,13976653,2996,6,4,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",70,1494,5246,1899,4,13.5,7,245/45 R19,245/45 R19,5,3165,510
+Mercedes Benz,Mercedes-Benz S-Class,Amg S 63 Coupe,25500000,3982,8,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",80,1411,5027,1899,2,13.5,7,255/45ZR19,285/40ZR19,4,2945,400
+Maserati,Levante,Diesel,14512054,2987,6,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",80,1679,5003,2158,4,13.5,6,255/60 ZR18,255/60 ZR18,4,3004,580
+Maserati,Levante,Gransport,14863774,2979,6,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",80,1679,5003,2158,5,13.5,6,255/60 ZR18,255/60 ZR18,4,3004,580
+Maserati,Levante,Granlusson,15383399,2979,6,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",80,1679,5003,2158,5,13.5,6,255/60 ZR18,255/60 ZR18,4,3004,580
+Mercedes Benz,Mercedes-Benz G-Class,Amg G 63,21875136,3982,8,4,AWD (All Wheel Drive),BS 6,"Front, Longitudinal",96,1938,4763,1855,5,13.5,9,285/45R21,285/45R21,7,2850,480
+Mercedes Benz,Mercedes-Benz G-Class,G 350D,15000000,2925,6,4,AWD (All Wheel Drive),BS 6,"Front, Longitudinal",100,1969,4817,1931,5,13.5,9,265/60 R 18,265/60 R 18,7,2890,480
+Audi,A8 L,55 Tfsi Quattro,15600000,2995,8,4,AWD (All Wheel Drive),BS 6,"Front, Longitudinal",82,1485,5302,1945,4,13.5,8,255/45 R19,255/45 R19,4,3128,505
+Maserati,Granturismo,Sport,17229579,4691,8,4,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",86,1353,4881,1915,2,4.6,6,245/35ZR20,285/35ZR20,4,2942,261
+Maserati,Quattroporte,Granlusso,17900000,2987,6,4,RWD (Rear Wheel Drive),BS 6,"Front, Longitudinal",70,1481,5262,1948,4,13.5,6,245/45R19,275/40 R19,4,3171,530
+Lexus,Lc 500H,Coupe,19600000,3456,6,4,AWD (All Wheel Drive),BS IV,"Front, Transverse",82,1345,4770,1920,2,13.5,6,245/40 R21,245/40 R21,4,2870,133
+Mercedes Benz,Mercedes-Benz Maybach,S650,27308312,5980,12,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",80,1498,5453,1899,4,13.5,7,245/40R20,245/40R20,4,3365,510
+Mercedes Benz,Mercedes-Benz Maybach,S560,19890000,4663,8,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",80,1494,5246,1899,4,7.81,9,245/45R19,245/45R19,4,3165,530
+Porsche,Panamera,Turbo,21263000,3996,8,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",90,1427,5049,1937,4,7.1,7,255/45ZR19,285/40ZR19,4,2950,530
+Porsche,Panamera,Turbo Executive,22613000,3996,8,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",90,1432,5199,1937,4,7.1,7,255/45ZR19,285/40ZR19,4,3100,530
+Porsche,Panamera,Turbo Sport Turismo,21747000,3996,8,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",90,1432,5049,1937,4,7.1,7,255/45ZR19,285/40ZR19,4,2950,530
+Lexus,Lx 450D,V8,23290000,4461,8,8,FWD (Front Wheel Drive),BS IV,"Front, Transverse",93,1865,5080,1980,4,18,6,285/60R18,285/60R18,7,2850,530
+Mercedes Benz,Mercedes-Benz S-Class Cabriolet,S500,23491293,4663,8,4,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",80,1417,5027,1899,2,5.4,6,235/35 R19,235/35 R19,4,2945,530
+Audi,R8,V10 Plus,27245000,5204,10,4,AWD (All Wheel Drive),BS IV,"Mid, Longitudinal",75,1252,4440,2029,2,7.8,7,245/35R19,295/35R19,2,2650,530
+Lamborghini,Urus,V8,30000000,3996,8,8,AWD (All Wheel Drive),BS IV,"Front, Transverse",75,1638,5112,2181,5,13.5,7,285/45 ZR21,315/40 ZR21,5,3003,616
+Bentley,Continental Gt,Coupe,33791059,5998,12,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",90,1401,4807,2226,2,5.3,8,275/40R20,275/40R20,4,2746,358
+Ferrari,Portofino,V8 Convertible,35000000,3855,8,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",92,1320,4569,1910,2,6,7,245/40ZR19,285/40ZR19,2,2669,240
+Bentley,Bentayga,W12,45941557,5950,12,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",85,1742,5141,1998,5,13.5,8,285/45R21,285/45R21,5,2992,430
+Bentley,Bentayga,V8,37542069,3996,12,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",85,1742,5140,1998,5,6,8,285/45R21,285/45R21,5,2995,430
+Aston Martin,Db 11,V12,40456503,5198,12,4,AWD (All Wheel Drive),BS IV,"Rear, Transverse",80,1250,4385,1865,2,6,7,255/40 ZR 20,295/35 ZR 20,2,2600,300
+Ferrari,458 Speciale,Coupe,42531500,4497,8,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",86,1203,4571,1951,2,6,7,245/35ZR20,305/30ZR20,2,2650,230
+Rolls Royce,Rolls-Royce Ghost Series Ii,6.6,46709733,6593,12,4,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",83,1550,5399,1948,4,10.5,8,255/50R19,255/50R19,5,3295,490
+Rolls Royce,Rolls-Royce Ghost Series Ii,Ewb,53247201,6592,12,4,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",83,1550,5569,1948,4,6,8,255 / 45 R20,285 / 45 R20,5,3295,490
+Rolls Royce,Rolls-Royce Wraith,Coupe,50025840,6592,12,4,AWD (All Wheel Drive),BS IV,"Front, Transverse",83,1507,5269,1947,2,4.7,8,255 / 45 R20,285/40 R20,4,3112,470
+Bentley,Mulsanne,Sedan,52571294,6752,8,4,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",100,1521,5575,2208,4,4.7,8,265/45R20,265/45R20,4,3266,443
+Rolls Royce,Rolls-Royce Cullinan,Suv,69500000,6750,12,4,AWD (All Wheel Drive),BS 6,"Front, Transverse",100,1835,5341,2000,5,4.7,8,265/45R20,265/45R20,5,3295,443
+Rolls Royce,Rolls-Royce Phantom Coupe,6.8 L,77312661,6749,12,4,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",100,1598,5612,1987,2,4.7,8,255/50R21,285/45R21,4,3320,395
+Bugatti,Chiron,W16,192142937,7993,16,4,RWD (Rear Wheel Drive),BS 6,"Mid, Transverse",100,1212,4544,2038,2,4.7,7,255/50R21,285/45R21,2,2710,395
+Bugatti,Chiron,Sport,212155397,7993,16,4,RWD (Rear Wheel Drive),BS 6,"Mid, Transverse",100,1212,4544,2038,2,4.7,7,285/30ZR20,285/30ZR20,2,2710,395
+Bajaj,Qute (Re60),Qcar,263000,216,8,1,RWD (Rear Wheel Drive),BS IV,"Front, Transverse",100,1652,2752,1312,4,4.7,5,R12,R12,4,1925,20
+Bajaj,Qute (Re60),Qcar Cng,283000,216,8,1,RWD (Rear Wheel Drive),BS IV,"Front, Transverse",100,1652,2752,1312,4,4.7,5,R12,R12,4,1925,20
+Maruti Suzuki,Alto,Std,294800,796,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1475,3445,1490,5,4.7,5,145/80R12,145/80R12,5,2360,395
+Maruti Suzuki,Alto,Std (O),299900,796,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1475,3445,1490,5,4.7,5,145/80R12,145/80R12,5,2360,395
+Maruti Suzuki,Alto,Lxi,352900,796,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1475,3445,1490,5,4.7,5,145/80R12,145/80R12,5,2360,395
+Maruti Suzuki,Alto,Lxi (O),357200,796,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1475,3445,1490,5,4.7,5,145/80R12,145/80R12,5,2360,395
+Maruti Suzuki,Alto,Vxi,376100,796,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1475,3445,1490,5,4.7,5,145/80R12,145/80R12,5,2360,395
+Maruti Suzuki,Alto,Lxi Cng (Cng +,405570,796,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1475,3445,1490,5,4.7,5,145/80R12,145/80R12,5,2360,395
+Maruti Suzuki,Alto,Lxi (O) Cng (Cng +,409190,796,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1475,3445,1490,5,4.7,5,145/80R12,145/80R12,5,2360,395
+Maruti Suzuki,Alto,Vxi Plus,389600,796,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1475,3445,1490,5,4.7,5,145/80R12,145/80R12,5,2360,395
+Maruti Suzuki,S-Presso,Std,370500,998,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",27,1549,3565,1520,5,4.7,5,145/80 R13,145/80 R13,5,2380,395
+Maruti Suzuki,S-Presso,Std (O),376500,998,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",27,1549,3565,1520,5,4.7,5,145/80 R13,145/80 R13,5,2380,395
+Maruti Suzuki,S-Presso,Lxi,409000,998,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",27,1549,3565,1520,5,4.7,5,145/80 R13,145/80 R13,5,2380,395
+Maruti Suzuki,S-Presso,Lxi (O),415000,998,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",27,1549,3565,1520,5,4.7,5,145/80 R13,145/80 R13,5,2380,395
+Maruti Suzuki,S-Presso,Vxi,432500,998,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",27,1549,3565,1520,5,4.7,5,145/80 R13,145/80 R13,5,2380,395
+Maruti Suzuki,S-Presso,Vxi (O),438500,998,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",27,1549,3565,1520,5,4.7,5,145/80 R13,145/80 R13,5,2380,395
+Maruti Suzuki,S-Presso,Vxi Ags,475500,998,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",27,1549,3565,1520,5,4.7,5,145/80 R13,145/80 R13,5,2380,395
+Maruti Suzuki,S-Presso,Vxi+,456000,998,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",27,1549,3565,1520,5,23,5,145/80 R13,145/80 R13,5,2380,395
+Maruti Suzuki,S-Presso,Vxi (O) Ags,481500,998,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",27,1549,3565,1520,5,23,5,145/80 R13,145/80 R13,5,2380,395
+Maruti Suzuki,S-Presso,Vxi+ Ags,499000,998,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",27,1549,3565,1520,5,23,5,145/80 R13,145/80 R13,5,2380,395
+Maruti Suzuki,Celerio,Lxi,426289,998,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1560,3600,1600,5,23,5,155/80R13,155/80R13,5,2425,235
+Maruti Suzuki,Celerio,Vxi,465138,998,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1560,3600,1600,5,23,5,165/70R14,165/70R14,5,2425,235
+Maruti Suzuki,Celerio,Vxi At,508138,998,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1560,3600,1600,5,23,5,165/70R14,165/70R14,5,2425,235
+Maruti Suzuki,Celerio,Zxi,490924,998,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1560,3600,1600,5,23,5,165/70R14,165/70R14,5,2425,235
+Maruti Suzuki,Celerio,Zxi (Opt),531279,998,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1560,3600,1600,5,23,5,165/70R14,165/70R14,5,2425,235
+Maruti Suzuki,Celerio,Vxi Cng Mt,530000,998,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1560,3600,1600,5,23,5,165/70R14,165/70R14,5,2425,235
+Maruti Suzuki,Celerio,Zxi Ags,533924,998,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1560,3600,1600,5,23,5,165/70R14,165/70R14,5,2425,235
+Maruti Suzuki,Celerio,Lxi Mt (O),434659,998,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1560,3600,1600,5,23,5,155/80R13,155/80R13,5,2425,235
+Maruti Suzuki,Celerio,Vxi (O) Mt,472257,998,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1560,3600,1600,5,23,5,165/70R14,165/70R14,5,2425,235
+Maruti Suzuki,Celerio,Vxi (O) Ags,515257,998,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1560,3600,1600,5,23,5,165/70R14,165/70R14,5,2425,235
+Maruti Suzuki,Celerio,Zxi (O) Ags,543279,998,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1560,3600,1600,5,23,5,165/70R14,165/70R14,5,2425,235
+Hyundai,Grand I10 Prime,Era T Crdi,551530,1120,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",43,1520,3765,1660,5,24,5,165/65R14,165/65R14,5,2425,256
+Hyundai,Grand I10 Prime,Era T+ Crdi,568930,1120,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",43,1520,3765,1660,5,24,5,165/65R14,165/65R14,5,2425,256
+Hyundai,Grand I10 Prime,Era T Vtvt,460369,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",43,1520,3765,1660,5,18.9,5,165/65R14,165/65R14,5,2425,256
+Hyundai,Grand I10 Prime,Era T+ Vtvt,477511,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",43,1520,3765,1660,5,18.9,5,165/65R14,165/65R14,5,2425,256
+Hyundai,Grand I10 Prime,Era T+ Cng Vtvt,545946,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",43,1520,3765,1660,5,18.9,5,165/65R14,165/65R14,5,2425,256
+Hyundai,Grand I10 Prime,Era T Cng Vtvt,528804,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",43,1520,3765,1660,5,18.9,5,165/65R14,165/65R14,5,2425,256
+Mahindra,Kuv100 Nxt,K2 6Str,488194,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",35,1655,3700,1735,5,15.5,5,185/65R14,185/65R14,6,2385,243
+Mahindra,Kuv100 Nxt,K2+ 6Str,532184,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1655,3700,1735,5,15.5,5,185/65R14,185/65R14,6,2385,243
+Mahindra,Kuv100 Nxt,K2 D 6Str,590798,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1655,3700,1735,5,22.25,5,185/65R14,185/65R14,6,2385,243
+Mahindra,Kuv100 Nxt,K2+ D 6Str,619243,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1655,3700,1735,5,22.25,5,185/65R14,185/65R14,6,2385,243
+Mahindra,Kuv100 Nxt,K4+ D 6Str,667273,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1655,3700,1735,5,22.25,5,185/65R14,185/65R14,6,2385,243
+Mahindra,Kuv100 Nxt,K4+ 6Str,579645,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1655,3700,1735,5,15.5,5,185/65R14,185/65R14,6,2385,243
+Mahindra,Kuv100 Nxt,K6+ 6Str,631144,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1655,3700,1735,5,15.5,5,185/65R14,185/65R14,6,2385,243
+Mahindra,Kuv100 Nxt,K6+ D 6Str,754548,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1655,3700,1735,5,22.25,5,185/65R14,185/65R14,6,2385,243
+Mahindra,Kuv100 Nxt,K8 6Str,693550,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1655,3700,1735,5,15.5,5,185/65R14,185/65R14,6,2385,243
+Mahindra,Kuv100 Nxt,K8 D 6Str,787304,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1655,3700,1735,5,22.25,5,185/65R14,185/65R14,6,2385,243
+Mahindra,Kuv100 Nxt,K8 6 Str Dual Tone,701045,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1655,3700,1735,5,15.5,5,185/65R14,185/65R14,6,2385,243
+Mahindra,Kuv100 Nxt,K8 D 6 Str Dual Tone,794800,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1655,3700,1735,5,22.25,5,185/65R14,185/65R14,6,2385,243
+Mahindra,Kuv100 Nxt,K4+ 5Str,573250,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1655,3700,1735,5,15.5,5,185/65R14,185/65R14,5,2385,243
+Mahindra,Kuv100 Nxt,K6+ 5Str,631146,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1655,3700,1735,5,15.5,5,185/65R14,185/65R14,5,2385,243
+Mahindra,Kuv100 Nxt,K8 5Str,687175,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1655,3700,1735,5,15.5,5,185/65R14,185/65R14,5,2385,243
+Mahindra,Kuv100 Nxt,K4+ D 5Str,660832,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1655,3700,1735,5,22.25,5,185/65R14,185/65R14,5,2385,243
+Mahindra,Kuv100 Nxt,K6+ D 5Str,748128,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1655,3700,1735,5,22.25,5,185/65R14,185/65R14,5,2385,243
+Mahindra,Kuv100 Nxt,K8 D 5Str,780884,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1655,3700,1735,5,22.25,5,185/65R14,185/65R14,5,2385,243
+Mahindra,Kuv100 Nxt,K2 D 5Str Taxi,550155,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1655,3700,1735,5,22.25,5,185/65R14,185/65R14,5,2385,243
+Mahindra,Kuv100 Nxt,K2 D 6Str Taxi,559741,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",35,1655,3700,1735,5,22.25,5,185/65R14,185/65R14,6,2385,243
+Mahindra,Kuv100 Nxt,K2 5Str Cng Taxi,524312,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",35,1655,3700,1735,5,15.5,5,185/65R14,185/65R14,5,2385,243
+Mahindra,Kuv100 Nxt,K2 6Str Cng Taxi,542913,1198,3,4,FWD (Front Wheel Drive),BS IV,"Front, Longitudinal",35,1655,3700,1735,5,15.5,5,185/65R14,185/65R14,6,2385,243
+Mahindra,E Verito,D4,1293214,72,4,5,FWD (Front Wheel Drive),BS IV,"Front, Transverse",70,1540,4247,1740,4,110,6,185/70R14,185/70R14,5,2630,510
+Maruti Suzuki,Swift,Vxi,619000,1197,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",37,1530,3840,1735,5,12.6,5,165/80R14,165/80R14,5,2450,268
+Maruti Suzuki,Swift,Vxi Amt,666000,1197,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",37,1530,3840,1735,5,12.6,5,165/80R14,165/80R14,5,2450,268
+Maruti Suzuki,Swift,Zxi,678000,1197,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",37,1530,3840,1735,5,12.6,5,185/65R15,185/65R15,5,2450,268
+Maruti Suzuki,Swift,Zxi Amt,725000,1197,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",37,1530,3840,1735,5,12.6,5,185/65R15,185/65R15,5,2450,268
+Maruti Suzuki,Swift,Zxi Plus,758000,1197,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",37,1530,3840,1735,5,12.6,5,185/65R15,185/65R15,5,2450,268
+Maruti Suzuki,Swift,Ldi,599000,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",37,1530,3840,1735,5,12.6,5,185/80R14,185/80R14,5,2430,268
+Maruti Suzuki,Swift,Vdi,698000,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",37,1530,3840,1735,5,12.6,5,165/80R14,165/80R14,5,2450,268
+Maruti Suzuki,Swift,Vdi Amt,745000,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",37,1530,3840,1735,5,12.6,5,165/80R14,165/80R14,5,2450,268
+Maruti Suzuki,Swift,Zdi,757000,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",37,1530,3840,1735,5,12.6,5,185/65R15,185/65R15,5,2450,268
+Maruti Suzuki,Swift,Zdi Amt,804000,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",37,1530,3840,1735,5,12.6,5,185/65R15,185/65R15,5,2450,268
+Maruti Suzuki,Swift,Zdi Plus,838000,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",37,1530,3840,1735,5,12.6,5,185/65R15,185/65R15,5,2450,268
+Maruti Suzuki,Swift,Zxi Plus Amt,802000,1197,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",37,1530,3840,1735,5,12.6,5,185/65R15,185/65R15,5,2450,268
+Maruti Suzuki,Swift,Zdi Plus Amt,884000,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",37,1530,3840,1735,5,12.6,5,185/65R15,185/65R15,5,2450,268
+Maruti Suzuki,Ciaz,1.5L Delta,997689,1498,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",43,1485,4490,1730,4,26032,6,185/65R15,185/65R15,5,2650,510
+Tata,Altroz,Xm Petrol,615000,1199,3,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1523,3990,1755,5,12.6,5,165/80R14,165/80R14,5,2501,345
+Tata,Altroz,Xt Petrol,684000,1199,3,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1523,3990,1755,5,12.6,5,165/80R14,165/80R14,5,2501,345
+Tata,Altroz,Xz Petrol,744000,1199,3,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1523,3990,1755,5,12.6,5,165/80R14,165/80R14,5,2501,345
+Tata,Altroz,Xz (O) Petrol,769000,1199,3,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1523,3990,1755,5,12.6,5,165/80R14,165/80R14,5,2501,345
+Tata,Altroz,Xe Diesel,699000,1497,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1523,3990,1755,5,12.6,5,165/80R14,165/80R14,5,2501,345
+Tata,Altroz,Xm Diesel,775000,1497,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1523,3990,1755,5,12.6,5,165/80R14,165/80R14,5,2501,345
+Tata,Altroz,Xt Diesel,844000,1497,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1523,3990,1755,5,8.6,5,165/80R14,165/80R14,5,2501,345
+Tata,Altroz,Xz Diesel,904000,1497,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1523,3990,1755,5,8.6,5,165/80R14,165/80R14,5,2501,345
+Tata,Altroz,Xz (O) Diesel,929000,1497,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",37,1523,3990,1677,5,8.6,5,165/80R14,165/80R14,5,2501,345
+Tata,Winger,15S,1205000,2200,4,4,FWD (Front Wheel Drive),BS 6,"Front, Longitudinal",85,2670,5458,1905,5,12.8,5,"195 R15 LT, 8PR Radial","195 R15 LT, 8PR Radial",16,3488,400
+Bentley,Flying Spur,V8,34167064,3993,8,4,AWD (All Wheel Drive),BS IV,"Front, Longitudinal",90,1488,5299,2207,4,2,8,275/40R19,275/40R19,4,3066,475
+Bentley,Flying Spur,W12,39382083,5998,12,4,AWD (All Wheel Drive),BS IV,"Rear, Longitudinal",90,1488,5299,2207,4,2,8,275/40R19,275/40R19,4,3066,475
+Maruti Suzuki,Omni,5 Str Bs-Iv,282778,796,3,2,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",35,1640,3370,1410,5,13,4,145R 12 LT 6PR,145R 12 LT 6PR,5,1840,525
+Maruti Suzuki,Omni,E 8 Str Bs-Iv,284485,796,3,2,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",36,1640,3370,1410,5,13,4,145R 12 LT 6PR,145R 12 LT 6PR,8,1840,525
+Icml,Extreme,Ld Crdfi Ps Ac 9 Seater Bsiv,628072,1994,4,4,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",50,1885,4440,1677,5,8.6,5,205/65 R15,205/65 R15,9,2541,345
+Icml,Extreme,Vd Crdfi 7 Seater Bsiii,900967,1994,4,4,RWD (Rear Wheel Drive),BS III,"Front, Longitudinal",50,1885,4440,1677,5,8.6,5,205/65 R15,205/65 R15,7,2541,345
+Icml,Extreme,Vd Di 7 Seater Bsiii,1465148,1994,4,4,RWD (Rear Wheel Drive),BS III,"Front, Longitudinal",50,1885,4440,1677,5,8.6,5,205/65 R15,205/65 R15,7,2541,345
+Icml,Extreme,Sd Crdfi 9 Seater Bsiv,552890,1994,4,4,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",50,1885,4440,1677,5,8.6,5,205/65 R15,205/65 R15,9,2541,345
+Icml,Extreme,Vd Crdfi 7 Seater Bsiv,927689,1994,4,4,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",50,1885,4440,1677,5,8.6,5,205/65 R15,205/65 R15,7,2541,345
+Icml,Extreme,Sd Crdfi 9 Seater Bsiii,835275,1994,4,4,RWD (Rear Wheel Drive),BS III,"Front, Longitudinal",50,1885,4440,1677,5,8.6,5,205/65 R15,205/65 R15,9,2541,345
+Tata,Tigor,Revotron Xe,575000,1199,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1537,3992,1677,4,24.12,5,155/80 R13,155/80 R13,5,2450,419
+Tata,Tigor,Revotron Xm,610000,1199,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1537,3992,1677,4,24.12,5,155/80 R13,155/80 R13,5,2450,419
+Tata,Tigor,Revotron Xz,650000,1199,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1537,3992,1677,4,24.12,5,175/60 R15,175/60 R15,5,2450,419
+Tata,Tigor,Revotron Xz Plus,699000,1199,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1537,3992,1677,4,24.12,5,175/60 R15,175/60 R15,5,2450,419
+Tata,Tigor,Revotron Xma,660000,1199,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1537,3992,1677,4,24.12,5,155/80 R13,155/80 R13,5,2450,419
+Tata,Tigor,Revotron Xza Plus,749000,1199,3,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1537,3992,1677,4,24.12,5,175/60 R15,175/60 R15,5,2450,419
+Tata,Zest,Xe Petrol,582287,1193,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",44,1570,3995,1706,4,13.2,5,185/60R15,185/60R15,5,2470,390
+Tata,Zest,Xe Diesel,702946,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",44,1570,3995,1706,4,19.2,5,185/60R15,185/60R15,5,2470,390
+Tata,Zest,Xm Petrol,653926,1193,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",44,1570,3995,1706,4,13.2,5,185/60R15,185/60R15,5,2470,390
+Tata,Zest,Xms Petrol,672641,1193,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",44,1570,3995,1706,4,13.2,5,185/60R15,185/60R15,5,2470,390
+Tata,Zest,Xt Petrol,732475,1193,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",44,1570,3995,1706,4,13.2,5,185/60R15,185/60R15,5,2470,390
+Tata,Zest,Xm Diesel,767317,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",44,1570,3995,1706,4,19.2,5,185/60R15,185/60R15,5,2470,390
+Tata,Zest,Xms Diesel,793898,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",44,1570,3995,1706,5,19.2,5,185/60R15,185/60R15,5,2470,390
+Tata,Zest,Xt Diesel,855362,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",44,1570,3995,1706,4,19.2,5,185/60R15,185/60R15,5,2470,390
+Tata,Zest,Xma Diesel,836320,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",44,1570,3995,1706,4,19.2,5,185/60R15,185/60R15,5,2470,390
+Tata,Zest,Xta Diesel,989000,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",44,1570,3995,1706,4,19.2,5,185/60R15,185/60R15,5,2470,390
+Tata,Zest,Zest Premio Edition,788797,1248,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",44,1570,3995,1706,5,19.2,5,185/60R15,185/60R15,5,2470,390
+Honda,Amaze,S Cvt Petrol,763000,1199,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1501,3995,1695,4,19.2,5,175/65R14,175/65R14,5,2470,420
+Honda,Amaze,E Mt Diesel,705000,1498,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1498,3995,1695,4,19.2,5,175/65R14,175/65R14,5,2470,420
+Honda,Amaze,E Mt Petrol,593000,1199,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1498,3995,1695,4,19.2,5,175/65R14,175/65R14,5,2470,420
+Honda,Amaze,S Cvt Diesel,865000,1498,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1501,3995,1695,4,19.2,5,175/65R14,175/65R14,5,2470,420
+Honda,Amaze,V Cvt Petrol,823000,1199,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1501,3995,1695,4,19.2,5,175/65R15,175/65R15,5,2470,420
+Honda,Amaze,V Cvt Diesel,925000,1498,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1501,3995,1695,4,19.2,5,175/65R15,175/65R15,5,2470,420
+Honda,Amaze,S Mt Diesel,785000,1498,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1501,3995,1695,4,19.2,5,175/65R14,175/65R14,5,2470,420
+Honda,Amaze,Vx Mt Diesel,893000,1498,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1501,3995,1695,4,19.2,5,175/65R14,175/65R14,5,2470,420
+Honda,Amaze,V Mt Diesel,845000,1498,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1501,3995,1695,4,19.2,5,175/65R15,175/65R15,5,2470,420
+Honda,Amaze,Vx Mt Petrol,781000,1199,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1501,3995,1695,4,19.2,5,175/65R14,175/65R14,5,2470,420
+Honda,Amaze,V Mt Petrol,733000,1199,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1501,3995,1695,4,19.2,5,175/65R15,175/65R15,5,2470,420
+Honda,Amaze,S Mt Petrol,673000,1198,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1501,3995,1695,4,19.2,5,175/65R14,175/65R14,5,2470,420
+Honda,Amaze,Exclusive Edition Diesel,906000,1498,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1501,3995,1695,4,19.2,5,175/65R14,175/65R14,5,2470,420
+Honda,Amaze,Exclusive Edition Petrol,794000,1199,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1501,3995,1695,4,10.2,5,175/65R14,175/65R14,5,2470,420
+Honda,Amaze,Vx Cvt Diesel,966000,1498,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1501,3995,1695,4,10.2,5,175/65R14,175/65R14,5,2470,420
+Honda,Amaze,Vx Cvt Petrol,864000,1199,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1501,3995,1695,4,10.2,5,175/65R14,175/65R14,5,2470,420
+Honda,Amaze,Ace Edition Cvt Diesel,979300,1498,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1501,3995,1695,4,10.2,5,175/65R14,175/65R14,5,2470,420
+Honda,Amaze,Ace Edition Cvt Petrol,877300,1199,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1501,3995,1695,4,10.2,5,175/65R14,175/65R14,5,2470,420
+Honda,Amaze,Ace Edition Mt Diesel,906300,1498,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1501,3995,1695,4,10.2,5,175/65R14,175/65R14,5,2470,420
+Honda,Amaze,Ace Edition Mt Petrol,794300,1199,4,4,FWD (Front Wheel Drive),BS 6,"Front, Transverse",35,1501,3995,1695,4,10.2,5,175/65R14,175/65R14,5,2470,420
+Maruti Suzuki,Gypsy,Hard Top,637343,1298,4,4,4WD,BS III,"Front, Transverse",40,1875,4010,1540,3,10.2,5,205/70,205/70,8,2375,350
+Lamborghini,Aventador,Lp 700-4,47893943,6498,12,4,4WD,BS IV,"Front, Longitudinal",90,1136,4780,2030,2,3,7,255/35,335/30,2,2700,110
+Hyundai,Venue,1.2 Kappa Mt E,655000,1197,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1590,3995,1770,5,10.2,5,195 / 65 R15,195 / 65 R15,5,2500,350
+Hyundai,Venue,1.0 Turbo Gdi Mt S,826000,998,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1590,3995,1770,5,10.2,7,195 / 65 R15,195 / 65 R15,5,2500,350
+Hyundai,Venue,1.4 Crdi Mt E,780000,1397,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1590,3995,1770,5,10.2,6,195 / 65 R15,195 / 65 R15,5,2500,350
+Hyundai,Venue,1.0 Turbo Gdi Mt Sx,959000,998,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1590,3995,1770,5,10.2,6,195 / 65 R15,195 / 65 R15,5,2500,350
+Hyundai,Venue,1.0 Turbo Gdi Mt Sx Dual Tone,974000,998,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1590,3995,1770,5,10.2,6,215 / 60 R16,215 / 60 R16,5,2500,350
+Hyundai,Venue,1.0 Turbo Gdi Mt Sx(O),1065000,998,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1590,3995,1770,5,10.2,6,215 / 60 R16,215 / 60 R16,5,2500,350
+Hyundai,Venue,1.0 Turbo Gdi Dct S,940000,998,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1590,3995,1770,5,10.2,7,195 / 65 R15 Steel,195 / 65 R15 Steel,5,2500,350
+Rolls Royce,Rolls-Royce Phantom,Sedan,95000000,6749,12,4,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",100,1638,5842,1990,4,10.2,8,255/50R21,285/45R21,5,3570,460
+Rolls Royce,Rolls-Royce Phantom,Ewb,75400000,6749,12,4,RWD (Rear Wheel Drive),BS IV,"Front, Longitudinal",100,1640,6092,1990,4,10.2,8,255/50R21,285/45R21,5,3820,460
+Hyundai,Venue,1.4 Crdi Mt S,850000,1397,4,4,FWD (Front Wheel Drive),BS IV,"Front, Transverse",45,1590,3995,1770,5,10.2,6,195 / 65 R15,195 / 65 R15,5,2500,350
